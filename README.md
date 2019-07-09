@@ -1,6 +1,6 @@
 # Portfolio
 
-![Thumbnail](thumbnail.png)
+![Thumbnail](Thumbnail.png)
 
 A portofolio made with HtML5 - CSS3 - Bootstrap
 
